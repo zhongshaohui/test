@@ -16,6 +16,9 @@
            data:{
                message:"zhongshaohui"
            }
+           method:function () {
+
+           }
        }
    )
 
